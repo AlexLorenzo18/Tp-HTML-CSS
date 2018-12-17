@@ -1,5 +1,5 @@
 .bg-light {
-    background-color: grey!important;
+    background-image: linear-gradient(black 0%, #a2a2a2 60%)!important;
 }
 
 .btn-primary {
