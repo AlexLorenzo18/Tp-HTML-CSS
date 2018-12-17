@@ -1,3 +1,12 @@
+.badge-secondary {
+    background-color: grey;
+    color: black;
+}
+
+.badge-success {
+    background-color: red;
+}
+
 .bg-light {
     background-image: linear-gradient(black 0%, #a2a2a2 60%)!important;
 }
@@ -26,10 +35,16 @@
 
 .notif {
     text-align: right;
+    margin-bottom: 30px;
 }
 
 .form-group {
     margin-top: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 150%;
+}
+
+.progress {
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
