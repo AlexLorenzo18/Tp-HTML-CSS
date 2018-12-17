@@ -1,0 +1,35 @@
+.bg-light {
+    background-color: grey!important;
+}
+
+.btn-primary {
+    background-color: black;
+    border-color: green;
+    
+}
+
+.btn-primary:hover {
+  background-color: pink;
+  border-color: purple;
+  color: aqua;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 50%;
+}
+
+.btn-second {
+    background-color: #901020;
+    border-color: black;
+    border-width: 3px;
+}
+
+.notif {
+    text-align: right;
+}
+
+.form-group {
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+}
