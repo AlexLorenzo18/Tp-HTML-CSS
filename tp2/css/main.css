@@ -116,6 +116,9 @@
 	padding: 0 2rem 0 0.9375rem;
 }
 
+.title {
+	margin-left: 27%;
+}
 
 .top-bar,
 .top-bar-section li:not(.has-form) a:not(.button),
