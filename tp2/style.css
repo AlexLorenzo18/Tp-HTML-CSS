@@ -32,38 +32,15 @@
     min-height: 100px; 
 }
 
-.photo3 {
-    padding-left: 0px;
-}
-
-.photo1{
-    padding-left: 130px;
-}
-.photo2{
-    padding-left: 5px;
-    padding-top: 10px;
-}
-
-
-.col-1 {
-    padding-left: 150px;
-}
-
-.photo {
-    max-width: 317px;
-    max-height: 320px;
-}
-
-.row {
-    width: 100%;
-}
 
 .carousel-control-prev {
     margin-left: 150px;
+    margin-top: 250px;
 }
 
 .carousel-control-next {
     margin-right: 150px;
+    margin-top: 250px;
 }
 
 .carousel-inner {
@@ -136,3 +113,11 @@ input[type=submit].btn-block {
 .fa {
     text-align: center;
 }
+
+
+.carousel-item-active,
+.carousel-control-next,
+.carousel-control-prev {
+    display: block!important;
+}
+
